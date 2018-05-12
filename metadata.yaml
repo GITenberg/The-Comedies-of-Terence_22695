@@ -1,0 +1,42 @@
+_repo: The-Comedies-of-Terence_22695
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Colman, George
+    aliases:
+    - Colman, George, the elder
+    - Coleman, George
+    - Colmann, George
+    birthdate: 1732
+    deathdate: 1794
+    gutenberg_agent_id: '9129'
+    url: http://www.gutenberg.org/2009/agents/9129
+    wikipedia: http://en.wikipedia.org/wiki/George_Colman_the_Elder
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Terence
+    alias: Afer, Publius Terentius
+    gutenberg_agent_id: '25168'
+    url: http://www.gutenberg.org/2009/agents/25168
+    wikipedia: http://en.wikipedia.org/wiki/Terence
+description: t. 1. Andrienne ; Eunuque -- t. 2. Heautontimoroumenos ; Phormion --
+  t. 3. Hécyre ; Adelphes.
+gutenberg_issued: '2007-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin drama (Comedy) -- Translations into English'
+- !lcsh 'Terence -- Translations into English'
+- !lcc 'PA'
+tableOfContents: The Andrian -- The eunuch -- The self-tormentor -- The brothers --
+  The step-mother -- Phormio.
+title: The Comedies of Terence
+url: http://www.gutenberg.org/ebooks/22695
